@@ -1,0 +1,46 @@
+# 05차시 로컬 IT 인프라 협업 환경 설치 인증
+
+## 1. GitHub 저장소 주소
+
+https://github.com/hanash8062-svg/AWS-DCO-GenAI-Portfolio
+
+---
+
+## 2. 설치 확인 결과
+
+| 항목      | 확인 명령어                                                    | 결과                               |
+| ------- | --------------------------------------------------------- | -------------------------------- |
+| Git     | `git --version`                                           | 성공: git version 2.55.0.windows.2 |
+| Python  | `python --version` / `py --version` / `python3 --version` | 성공: Python 3.14.3                |
+| VS Code | `code --version`                                          | 성공: 1.127.0                      |
+| Node.js | `node --version`                                          | 확인 제외 / 미설치                      |
+| npm     | `npm --version`                                           | 확인 제외 / 미설치                      |
+
+---
+
+## 3. PowerShell 실행 결과
+
+```text
+PS C:\WINDOWS\system32> git --version
+git version 2.55.0.windows.2
+
+PS C:\WINDOWS\system32> python --version
+Python 3.14.3
+
+PS C:\WINDOWS\system32> py --version
+Python 3.14.3
+
+PS C:\WINDOWS\system32> python3 --version
+Python 3.14.3
+
+PS C:\WINDOWS\system32> code --version
+1.127.0
+4fe60c8b1cdac1c4c174f2fb180d0d758272d713
+x64
+
+PS C:\WINDOWS\system32> node --version
+node : 'node' 용어가 cmdlet, 함수, 스크립트 파일 또는 실행할 수 있는 프로그램 이름으로 인식되지 않습니다.
+
+PS C:\WINDOWS\system32> npm --version
+npm : 'npm' 용어가 cmdlet, 함수, 스크립트 파일 또는 실행할 수 있는 프로그램 이름으로 인식되지 않습니다.
+```
