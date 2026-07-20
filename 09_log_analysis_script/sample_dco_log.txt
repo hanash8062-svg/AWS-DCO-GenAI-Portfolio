@@ -1,0 +1,12 @@
+2026-01-20 09:00:00 | SAMPLE_TOR_SW_01 | INFO | LINK_UP | Sample interface link is operational
+2026-01-20 09:03:15 | SAMPLE_TOR_SW_01 | WARNING | CRC_ERROR | CRC error detected on sample interface
+2026-01-20 09:05:40 | SAMPLE_TOR_SW_01 | WARNING | CRC_ERROR | Repeated CRC error observed on sample interface
+2026-01-20 09:07:10 | SAMPLE_TOR_SW_01 | CRITICAL | LINK_DOWN | Link Down observed on sample interface
+2026-01-20 09:08:25 | EDU_MONITOR_01 | INFO | TICKET_CREATED | Educational ticket created for review
+2026-01-20 09:10:00 | DEMO_SERVER_01 | WARNING | TEMP_WARNING | Sample temperature warning recorded
+2026-01-20 09:12:30 | SAMPLE_TOR_SW_01 | CRITICAL | TICKET_ESCALATED | Educational ticket escalated for instructor review
+2026-01-20 09:15:00 | SAMPLE_TOR_SW_01 | INFO | LINK_UP | Sample interface link returned to normal
+2026-01-20 09:17:20 | DEMO_SERVER_01 | INFO | HEALTH_CHECK | Sample health check completed
+2026-01-20 09:20:45 | EDU_PDU_01 | WARNING | POWER_ALERT | Educational power alert recorded
+2026-01-20 09:23:10 | EDU_PDU_01 | INFO | POWER_NORMAL | Educational power state returned to normal
+2026-01-20 09:25:00 | DEMO_SERVER_01 | INFO | TICKET_CLOSED | Educational ticket closed after review
