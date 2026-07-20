@@ -16,7 +16,7 @@ AWS DCO 인턴십 직무 이해를 위한 생성형 AI 활용 및 포트폴리�
 - `08_incident_analysis/`: 장애 상황 분석
 - `09_incident_report/`: 장애대응보고서
 - `10_stitch_dco_dashboard/`: DCO 학습 대시보드
-- `11_exam_prep/`: 지필시험 대비 자료
+
 
 ## 보안상 포함하지 않는 정보
 
